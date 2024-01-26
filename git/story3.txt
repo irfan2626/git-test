@@ -1,1 +1,2 @@
-this is story3.txt
+this is story3.txt,
+good to go chief
